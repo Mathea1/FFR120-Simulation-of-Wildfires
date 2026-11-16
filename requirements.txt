@@ -1,1 +1,6 @@
+Library + Verision som behövs
 
+numpy - v3 (T.EX)
+matplotlib
+pandas
+scipy
