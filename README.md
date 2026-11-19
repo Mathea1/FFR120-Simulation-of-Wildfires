@@ -7,6 +7,23 @@ The study investigates the relationship between forest size and the eventual wil
 # Repository overview and usage
 
 
+# Refereneces
+@incollection{10.1088/978-0-7503-3843-1ch3,
+author = {Argun, Aykut and Callegari, Agnese and Volpe, Giovanni},
+title = {Forest fires},
+booktitle = {Simulation of Complex Systems},
+publisher = {IOP Publishing},
+year = {2021},
+series = {2053-2563},
+type = {Book Chapter},
+pages = {3-1 to 3-11},
+abstract = {Modeling the growth of a forest that experiences the repeated occurrence of fires provides a natural tool with which to introduce concepts related to power-law distributions and self-organized criticality, which can be used to understand a broad range of phenomena.},
+url = {https://doi.org/10.1088/978-0-7503-3843-1ch3},
+doi = {10.1088/978-0-7503-3843-1ch3},
+isbn = {978-0-7503-3843-1}
+}
+
+
 
 
         
