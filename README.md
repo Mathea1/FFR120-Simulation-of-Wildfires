@@ -8,7 +8,6 @@ The study investigates the relationship between forest size and the eventual wil
 
 
 # Refereneces
-@incollection{10.1088/978-0-7503-3843-1ch3,
 author = {Argun, Aykut and Callegari, Agnese and Volpe, Giovanni},
 title = {Forest fires},
 booktitle = {Simulation of Complex Systems},
@@ -21,7 +20,7 @@ abstract = {Modeling the growth of a forest that experiences the repeated occurr
 url = {https://doi.org/10.1088/978-0-7503-3843-1ch3},
 doi = {10.1088/978-0-7503-3843-1ch3},
 isbn = {978-0-7503-3843-1}
-}
+
 
 
 
