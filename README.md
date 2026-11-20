@@ -4,6 +4,9 @@ Partaking individuals in the project include: Alfons Otterspeer
 # Introduction and approach
 The study investigates the relationship between forest size and the eventual wildfire damage with additional parameters being present. With the worlds ongoing pollution crisis the average temperature is steadily increasing resulting in a growing number of forest fires around the world. By simulating the scenarios with various surroundings and to try different strategies to stop/prevent wildfires may hopefully be found.
 
+# Abstract
+This study aims to investigate how a randomly generated forest depends on the aspects of wind speed and terrain generation. The two dimensional wind speed effects the direction and the extent of the fire spread. Generating the terrain is based upon a transformed ising model algorithm to make it continous. Values below a certain thershold may be put to being unignateble to simulate wet terrain. With a continous noise map we can calculate the gradient and determine if the fire can spread from one tree to another.  
+
 # Repository overview and usage
 
 
