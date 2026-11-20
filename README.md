@@ -8,7 +8,7 @@ The study investigates the relationship between forest size and the eventual wil
 This study aims to investigate how a randomly generated forest depends on the aspects of wind speed and terrain generation. The two dimensional wind speed effects the direction and the extent of the fire spread. Generating the terrain is based upon a transformed ising model algorithm to make it continous. Values below a certain thershold may be put to being unignateble to simulate wet terrain. With a continous noise map we can calculate the gradient and determine if the fire can spread from one tree to another.  
 
 # Methodology
-Firstly a terrain is generated using the ising model. To make it continous we add the neighbour values and divide by the number of neighbours for x iterations, this might still be to "edgy", therefore we scale it. The values then determine the type of terrain. Gradients are calculated and evaluated. Then the forest and wind speed is initiated and iterated forward in time. 
+Firstly a terrain is generated using the ising model. To make it continous we add the neighbour values and divide by the number of neighbours for x iterations, this might still be to "edgy", therefore we scale it. The values then determine the type of terrain. Gradients are calculated and evaluated. Then the forest and wind speed is initiated and iterated forward in time. Some snapshots of the forest at different iterations should be shown and how the forest density changes.
 
 # Repository overview and usage
 
